@@ -814,13 +814,14 @@
 
 * **[Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Multi-Site Manga Search
 * **[Manga Site Index](https://piracy.moe/)** - Manga Site List
-* **[MangaDex](https://mangadex.org/)** - [Download Script](https://github.com/frozenpandaman/mangadex-dl)
+* **[MangaDex](https://mangadex.org/)** - [Download Script](https://github.com/frozenpandaman/mangadex-dl) 
 * **[Manga4Life](https://manga4life.com/)**
 * **[MangaReader](https://mangareader.to/)**
 * [/r/MangaPiracy](https://reddit.com/r/MangaPiracy) - Manga Piracy Subreddit / [Discord](https://discord.gg/ZgMtAyxFSU)
 * [Manga Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_download_bots) - Bots that Download Manga
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - Anime / Manga Download Forum
 * [Madokami Manga Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_madokami)
+* [Tachiyomi](https://tachiyomi.org/)  - Manga / Comic Reader / [Web Client](https://github.com/TachiWeb) / [Discord](https://discord.com/invite/tachiyomi) 
 * [bato](https://bato.to/) - [Discord](https://discord.gg/7NBwcBsDph)
 * [MangaHere](http://www.mangahere.cc)
 * [MangaNelo](https://manganelo.com/) or [Mangakakalot](https://mangakakalot.com/)
@@ -916,7 +917,6 @@
 * [OtakuGallery](http://www.otakugallery.com/) - Manga Artbooks
 * [WebToons](https://www.webtoons.com/en/) - Manga Webtoons  
 * [AllMangasReader](http://allmangasreader.com/), [OpenComic](https://github.com/ollm/OpenComic) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - Manager / Reader
-* [Tachiyomi](https://github.com/Suwayomi)  - Manga / Comic Reader / [Web Client](https://github.com/TachiWeb) / [Discord](https://discord.com/invite/tachiyomi) 
 * [LANraragi](https://github.com/Difegue/LANraragi) - Manga / Doujin Manager for NAS / [Discord](https://discord.com/invite/aRQxtbg)
 * [anime-dl](https://github.com/vrienstudios/anime-dl) / [2](https://github.com/vrienstudios/anime-dl) - Manga Downloader
 * [manga-py](https://github.com/manga-py/manga-py) - Python Line Manga Downloader 
